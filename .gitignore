@@ -167,4 +167,4 @@ pip-log.txt
 #############
 .idea
 
-dev.sqlite3
+*.sqlite3
