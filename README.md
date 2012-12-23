@@ -1,0 +1,1 @@
+This is my rendition of the Django hello_world project of the tutorial at: https://docs.djangoproject.com/en/1.3/intro/tutorial01/
